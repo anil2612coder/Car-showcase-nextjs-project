@@ -6,4 +6,4 @@ import Hero from "./Hero"
 
 export {
     Hero,CustomButtom, Navbar, Footer
-}
+} 
